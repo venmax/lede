@@ -33,7 +33,7 @@ ArmSoM-Sige 系列：软路由、单板计算机、小型服务器与智能家�
 
 2. 安装编译依赖
 
-   ```bash
+   ```bash 
    sudo apt update -y
    sudo apt full-upgrade -y
    sudo apt install -y ack antlr3 asciidoc autoconf automake autopoint binutils bison build-essential \
